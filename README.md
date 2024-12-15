@@ -1,6 +1,16 @@
-# ntshot 📷
+<br />
+<div align="center">
+  <a href="https://github.com/synthous/ntshot">
+    <img src="img/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-FOSS Screenshot app, only for windows
+  <h3 align="center">ntshot 📷</h3>
+
+  <p align="center">
+    FOSS Screenshot app, only for windows
+    <br />
+  </p>
+</div>
 
 # What? 🤔
 
