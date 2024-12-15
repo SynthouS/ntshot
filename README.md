@@ -26,7 +26,10 @@ FOSS Screenshot app, only for windows. It's simple app when user press `PrintScr
 
 # Config 📝
 ```
-// Config.txt
+// cfg.txt
+hotkey=Print Screen
+folder=screenshots
+filename=%Y%m%d_%H%M%S.png
 ```
 
 # Build from source 🛠️
