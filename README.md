@@ -31,5 +31,5 @@ FOSS Screenshot app, only for windows. It's simple app when user press `PrintScr
 - copy config file from README.md
 - Done
 
-# Licence
-GNU General Public License v3.0 [View](LICENCE)
+# License
+GNU General Public License v3.0 [View](LICENSE)
