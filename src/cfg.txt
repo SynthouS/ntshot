@@ -1,0 +1,3 @@
+hotkey=Print Screen
+folder=screenshots
+filename=%Y%m%d_%H%M%S.png
