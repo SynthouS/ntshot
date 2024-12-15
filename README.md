@@ -32,4 +32,4 @@ FOSS Screenshot app, only for windows. It's simple app when user press `PrintScr
 - Done
 
 # Licence
-GNU
+GNU General Public License v3.0 [View](LICENCE)
